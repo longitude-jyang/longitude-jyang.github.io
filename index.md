@@ -1,5 +1,4 @@
 # Welcome to the notes page
-Use the [editor on GitHub](https://github.com/longitude-jyang/jiannanyang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 ## Supervision Notes 
 
@@ -7,6 +6,10 @@ I have been giving [superivions](http://www.cambridge-strategies.org/features/ed
 
 ### Rigid body dynamics 
 
-
 #### Examples 
 1. [Lagrange Top](/Supervision/Dynamics/LagrangeTop.md)
+
+### Lagrangian mechanics 
+
+### Linear vibration 
+
