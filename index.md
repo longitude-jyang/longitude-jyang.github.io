@@ -3,4 +3,4 @@ You can use the [editor on GitHub](https://github.com/longitude-jyang/jiannanyan
 
 # Examples
 
-1. [Lagrange Top](/LagrangeTop.md)
+1. [Lagrange Top](/Supervision/Dynamics/LagrangeTop.md)
