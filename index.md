@@ -26,6 +26,8 @@ I have been giving [superivions](http://www.cambridge-strategies.org/features/ed
 #### Examples 
 
 1. single mass on a spring
+![Image](/Supervision/Dynamics/LagrangianMechanics_Ex/SingleMassSpring.png)
+
 2. trolley pendulum system
 
 #### Common mistakes and misunderstandings 
