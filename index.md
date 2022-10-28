@@ -6,10 +6,33 @@ I have been giving [superivions](http://www.cambridge-strategies.org/features/ed
 
 ### Rigid body dynamics 
 
+1. Equations of motion in 3D
+2. Inertia matrix 
+3. Rotating frame of reference
+4. Gyroscopic equation
+
 #### Examples 
-1. [Lagrange Top](/Supervision/Dynamics/LagrangeTop.md)
+1. Inertia matrix for a paper clip
+2. 3D dynamics of a complete/partial rubik cube 
+3. [Lagrange Top](/Supervision/Dynamics/LagrangeTop.md)
+
+
+#### Common mistakes and misunderstandings 
+
+
 
 ### Lagrangian mechanics 
 
+#### Examples 
+
+1. single mass on a spring
+2. trolley pendulum system
+
+#### Common mistakes and misunderstandings 
+
 ### Linear vibration 
+
+#### Examples 
+
+#### Common mistakes and misunderstandings 
 
