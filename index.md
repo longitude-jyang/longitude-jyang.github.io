@@ -12,9 +12,10 @@ I have been giving [superivions](http://www.cambridge-strategies.org/features/ed
 4. Gyroscopic equation
 
 #### Examples 
-1. [Inertia matrix for a paper clip](/Supervision/Dynamics/PaperClipEx.pdf)
+1. [Inertia matrix for a bent paper clip](/Supervision/Dynamics/PaperClipEx.pdf)
 2. 3D dynamics of a complete/partial rubik cube 
-3. [Lagrange Top](/Supervision/Dynamics/LagrangeTop.md)
+3. Feynman's wobbling plate 
+4. [Lagrange Top](/Supervision/Dynamics/LagrangeTop.md)
 
 
 #### Common mistakes and misunderstandings 
