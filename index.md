@@ -25,7 +25,7 @@ I have been giving [superivions](http://www.cambridge-strategies.org/features/ed
 
 #### Examples 
 
-1. [single mass on a spring](https://1drv.ms/u/s!AtnBNvfI1xsdjmUYDjBeBkNkowTf) 
+1. single mass on a spring
 2. trolley pendulum system
 
 #### Common mistakes and misunderstandings 
